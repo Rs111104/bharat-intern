@@ -27,8 +27,6 @@ The columns in the dataset are as follows:
 13. Dividend Cash Amount: Denotes the amount of cash dividend paid out to shareholders on the given day.
 14. Split Factor: Represents the split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split.
 
-You can find the dataset available on Kaggle at the following link: https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
-
 
 ### WORKFLOW OVERVIEW:
 ### This project involves the following steps:
